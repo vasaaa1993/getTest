@@ -1,0 +1,12 @@
+[
+  {
+    "Core": "Core",
+    "Version": "1.0.0",
+    "Priority": 0
+  },
+  {
+    "Core": "Core.Fhir",
+    "Version": "1.0.0",
+    "Priority": 1
+  }
+]

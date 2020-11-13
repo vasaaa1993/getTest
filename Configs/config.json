@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "taskCTE",
+    "Parameters": [
+      {
+        "Id": "param1",
+        "Value": "CTE"
+      }
+    ]
+  }
+]
