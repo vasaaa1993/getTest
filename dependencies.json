@@ -3,5 +3,10 @@
     "Core": "Core",
     "Version": "1.0.1",
     "Priority": 0
+  },
+  {
+    "Core": "Fhir",
+    "Version": "1.0.1",
+    "Priority": 1
   }
 ]
