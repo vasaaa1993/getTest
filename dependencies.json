@@ -1,11 +1,11 @@
 [
   {
-    "Core": "Core",
+    "Name": "Core",
     "Version": "1.0.1",
     "Priority": 0
   },
   {
-    "Core": "Fhir",
+    "Name": "Fhir",
     "Version": "1.0.1",
     "Priority": 1
   }
